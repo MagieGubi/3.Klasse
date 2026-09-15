@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:simpleType name="colorType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Black"/>
+            <xs:enumeration value="White"/>
+            <xs:enumeration value="Red"/>
+            <xs:enumeration value="Green"/>
+            <xs:enumeration value="Blue"/>
+            <xs:enumeration value="Yellow"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:element name="color" type="colorType"/>
+</xs:schema>

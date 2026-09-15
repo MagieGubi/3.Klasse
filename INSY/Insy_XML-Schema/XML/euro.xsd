@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="euro">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="teams">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="team" type="xs:string" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="player" type="xs:string" maxOccurs="unbounded"/>
+                <xs:element name="qualifying">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="group" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="team-play" type="xs:string" maxOccurs="unbounded"/>
+                                        <xs:element name="news" type="xs:string" minOccurs="0"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

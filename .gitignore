@@ -1,0 +1,19 @@
+# Eigene Git-Repositories innerhalb dieses Repos
+ITPP/Talkz/BlazarTalkz/
+ITPP/Talkz/Talkz/
+Medientechnik/Benutzerverwaltung mit Twig/
+Medientechnik/Github/Aufgabe1/
+Medientechnik/Github/Aufgabe2/
+Medientechnik/Laravel_Webshop/Laravel_Webshop/
+Medientechnik/Medt_DevContainer/vendor/
+
+# JetBrains
+**/.idea/
+
+# Vendor
+**/vendor/
+
+**/.idea/
+**/vendor/
+**/node_modules/
+**/.git/

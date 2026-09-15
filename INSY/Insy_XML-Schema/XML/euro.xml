@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<euro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="euro.xsd">
+    <teams>
+        <team>Schweizer Team</team>
+        <team>France</team>
+    </teams>
+    <player>Gareth Bale</player>
+    <player>Jamie Vardy</player>
+    <qualifying>
+        <group>
+            <team-play>FRA</team-play>
+            <team-play>SUI</team-play>
+            <news>The last match in Group A ended</news>
+        </group>
+        <group>
+            <team-play>RUS</team-play>
+            <team-play>GER</team-play>
+            <team-play>JAP</team-play>
+        </group>
+    </qualifying>
+</euro>

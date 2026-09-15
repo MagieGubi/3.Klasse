@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><teams>
+    <team code="FRA">
+        <player>Laurent Koscielny</player>
+        <player>Djibril Sidibe</player>
+        <player>Antoine Griezmann</player>
+        <player>Olivier Giroud</player>
+        <player>Nabil Fekir</player>
+        <player>Florian Thauvin</player>
+        <player>Alexandre Lacazette</player>
+    </team>
+    <team code="SPA">
+        <player>Jordi Alba</player>
+        <player>Dani Carvajal</player>
+        <player>Sergio Ramos</player>
+        <player>Alberto Moreno</player>
+        <player>Marc Bartra</player>
+        <player>Marco Asensio</player>
+        <player>Andres Iniesta</player>
+        <player>David Silva</player>
+        <player>Javi Martinez</player>
+        <player>Ander Herrera</player>
+        <player>Davic Villa</player>
+        <player>Diego Costa</player>
+        <player>Lucas Vazquez</player>
+        <player>Aritz Aduriz</player>
+    </team>
+    <team code="GER">
+        <player>Jerome Boateng</player>
+        <player>Marcel Halstenberg</player>
+        <player>Mats Hummels</player>
+        <player>Niklas Süle</player>
+        <player>Julian Brandt</player>
+        <player>Emre Can</player>
+        <player>Sami Khedira</player>
+        <player>Toni Kroos</player>
+        <player>Thomas Müller</player>
+        <player>Mario Gomez</player>
+    </team>
+    <team code="GB">
+        <player>Ryan Bertrand</player>
+        <player>Joe Gomez</player>
+        <player>Phil Jones</player>
+        <player>Lewis Cook</player>
+        <player>Jesse Lingard</player>
+        <player>Marcus Rashford</player>
+        <player>Jamie Vardy</player>
+    </team>
+    <team code="POR">
+        <player>Luis Neto</player>
+        <player>Ricardo Pereira</player>
+        <player>Manuel Fernandes</player>
+        <player>Danilo Pereira</player>
+        <player>Bruno Fernandes</player>
+        <player>Andre Silva</player>
+        <player>Rony Lopes</player>
+    </team>
+    <team code="BEL">
+        <player>Dedryck Boyata</player>
+        <player>Laurent Ciman</player>
+        <player>Jordan Lukaku</player>
+        <player>Axel Witsel</player>
+        <player>Steven Defour</player>
+        <player>Adnan Januzaj</player>
+        <player>Laurent Depoitre</player>
+        <player>Kevin Mirallas</player>
+        <player>Adnan Januzaj</player>
+    </team>
+    <team code="ITA">
+        <player>Daniele Rugani</player>
+        <player>Andrea Barzagli</player>
+        <player>Davide Zappacosta</player>
+        <player>Roberto Gagliardini</player>
+        <player>Marco Parolo</player>
+        <player>Alessandro Florenzi</player>
+        <player>Ciro Immobile</player>
+        <player>Simone Zaza</player>
+        <player>Andrea Belotti</player>
+    </team>
+    <team code="RUS">
+        <player>Igor Akinfejew</player>
+        <player>Wladimir Gabulow</player>
+        <player>Denis Gluschakow</player>
+        <player>Alexander Golowin</player>
+        <player>Alexander Jerochin</player>
+        <player>Alexander Bucharow</player>
+        <player>Dimitri Polos</player>
+    </team>
+    <team code="SUI">
+        <player>Manuel Akanji</player>
+        <player>Timm Klose</player>
+        <player>Fabian Frei</player>
+        <player>Seven Zuber</player>
+        <player>Granit Xhaka</player>
+        <player>Valentin Stocker</player>
+        <player>Eren Derdiyok</player>
+        <player>Josip Drmic</player>
+        <player>Breel Embolo</player>
+    </team>
+    <team code="AUT">
+        <player>Stefan Lainer</player>
+        <player>Alexander Dragovic</player>
+        <player>David Alaba</player>
+        <player>Marco Arnautovic</player>
+        <player>Louis Schaub</player>
+        <player>Guido Burgstaller</player>
+        <player>Michael Gregorisch</player>
+        <player>Marc Janko</player>
+    </team>
+    <team code="CRO">
+        <player>Dejan Lovren</player>
+        <player>Tin Jedvaj</player>
+        <player>Filip Bradaric</player>
+        <player>Luka Modric</player>
+        <player>Ivan Perisic</player>
+        <player>Ivan Santini</player>
+        <player>Mario Pjaca</player>
+        <player>Nikola Kalinic</player>
+    </team>
+    <team code="UKR">
+        <player>Eduard Sobol</player>
+        <player>Olexandr Kutscher</player>
+        <player>Wiktor Zhyankow</player>
+        <player>Jewhen Schachow</player>
+        <player>Jewhen Konopljanka</player>
+        <player>Artem Bjessjedin</player>
+        <player>Andrij Jarmolinko</player>
+    </team>
+    <team code="CZE">
+        <player>Jan Boril</player>
+        <player>Marek Suchy</player>
+        <player>Josef Husbauer</player>
+        <player>Antonin Barak</player>
+        <player>Tomas Horava</player>
+        <player>Vaclav Kadlex</player>
+        <player>Jan Kliment</player>
+        <player>Milan Skoda</player>
+    </team>
+    <team code="SWE">
+        <player>Franz Brorsson</player>
+        <player>Joakim Nilsson</player>
+        <player>Martin Olson</player>
+        <player>Alexander Fransson</player>
+        <player>Oscar Lewicki</player>
+        <player>Ken Sema</player>
+        <player>Sebastian Andersson</player>
+        <player>Per Frick</player>
+        <player>Alexander Isak</player>
+    </team>
+    <team code="PLA">
+        <player>Kamil Glik</player>
+        <player>Jaroslaw Jach</player>
+        <player>Machl Pazdan</player>
+        <player>Piotr Zielinski</player>
+        <player>Jacek Goralski</player>
+        <player>Rafal Kurzawa</player>
+        <player>Rpbert Lewandowski</player>
+        <player>Mariusz Stepinski</player>
+        <player>Kamil Wilczek</player>
+    </team>
+    <team code="ROU">
+        <player>Vlad Chiriches</player>
+        <player>Christian Ganea</player>
+        <player>Cosmin Moti</player>
+        <player>Alexandru Chipciu</player>
+        <player>Eric Bicfalvi</player>
+        <player>Nicolae Stanciu</player>
+        <player>Andrei Ivan</player>
+        <player>Dorin Rotariu</player>
+        <player>Bogdan Stancu</player>
+    </team>
+    <team code="SVK">
+        <player>Jan Durica</player>
+        <player>Norbert Gyomber</player>
+        <player>Peter Pekarik</player>
+        <player>Robert Mak</player>
+        <player>Miroslav Stock</player>
+        <player>Vladimir Weis</player>
+        <player>Michal Duris</player>
+        <player>Adam Nemec</player>
+    </team>
+    <team code="HUN">
+        <player>Denes Dibusz</player>
+        <player>Peter Gulacsi</player>
+        <player>Gabor Kiraly</player>
+        <player>Laszlo Kleinheisler</player>
+        <player>Adam Nagy</player>
+        <player>Daniel Böde</player>
+        <player>Zoltan Gera</player>
+        <player>Adam Szali</player>
+    </team>
+    <team code="TUR">
+        <player>Erol Alkan</player>
+        <player>Serdar Aziz</player>
+        <player>Ozan Tufan</player>
+        <player>Emre Akbaba</player>
+        <player>Yunus Malli</player>
+        <player>Cengiz Under</player>
+        <player>Cenk Tosun</player>
+        <player>Enes Unal</player>
+    </team>
+    <team code="IRL">
+        <player>Darren Randolph</player>
+        <player>Keiren Westwood</player>
+        <player>Alex Pearce</player>
+        <player>Jonny Hayes</player>
+        <player>Harry Arter Arter</player>
+        <player>Aiden McGeady</player>
+        <player>Shane Long</player>
+        <player>Scott Hogan</player>
+        <player>Aiden OBrien</player>
+    </team>
+</teams>
